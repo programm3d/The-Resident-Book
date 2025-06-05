@@ -1,11 +1,12 @@
 ## 🏡 The Residents Book
 A beautifully minimal one-page website where individuals can add themselves to a public-facing profile book, creating a growing community of ambitious individuals.
 ## 🚀 Live Demo
-[Live Link]()
+[Frontend](https://heartfelt-pastelito-1108bb.netlify.app/)
+[Backend](https://the-resident-book.onrender.com)
 ## 📖 Project Overview
 The Residents Book enables users to submit their personal and social information via a popup form, displaying submitted profiles in a clean, scrollable list. The project is built using:
 - Frontend: React, styled with minimal animations for a sleek UI
-- Backend: Express.js / Node.js or Vercel Serverless Functions
+- Backend: Express.js and Node.js
 - Database: MongoDB (or lightweight JSON-based storage for MVP)
 ## 🔥 Features
 - 📑 Profile Submission: Users can add their name, role, profile photo, LinkedIn, and Twitter details.
@@ -15,10 +16,8 @@ The Residents Book enables users to submit their personal and social information
 ## 📂 Folder Structure
 📁 The Residents Book   
 │── 📂 frontend/ (React app)  
-│── 📂 backend/ (Express API or Vercel functions)  
-│── 📂 database/ (MongoDB setup or JSON storage for MVP)  
+│── 📂 backend/ (Express API)  
 │── 📜 README.md  
-│── 📜 package.json  
 
 
 ## 🛠️ Tech Stack
