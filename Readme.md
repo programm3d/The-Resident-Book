@@ -32,13 +32,13 @@ The Residents Book enables users to submit their personal and social information
 ```sh
 git clone https://github.com/programm3d/The-Resident-Book.git  
   
-cd The-Residents-Book
+cd The-Resident-Book
 ```
 
 
 ### 2️⃣ Backend Setup
 ```bash
-cd backend
+cd Server
 npm install
 npm start
 ```
@@ -46,7 +46,7 @@ npm start
 
 ### 3️⃣ Frontend Setup
 ```bash
-cd frontend
+cd Client
 npm install
 npm run dev
 ```
